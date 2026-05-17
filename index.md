@@ -1,6 +1,6 @@
 # 🖼️ PhotoPure
 
-<h3 style="color:#2B2B2B;">Intelligent Photo Cleanup</h3>
+<h3 style="color:#2B2B2B;">Intelligent Photo Cleaner</h3>
 
 ## 💡 <span style="color:#1068D1;">Overview</span>
 
