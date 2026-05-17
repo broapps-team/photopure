@@ -124,4 +124,4 @@ Email us at [broapps.team@gmail.com](mailto:broapps.team@gmail.com)
 
 #### Policies
 
-Privacy Policy – [https://broapps-team.github.io/PhotoPure/privacy](https://broapps-team.github.io/PhotoPure/privacy)
+Privacy Policy – [https://broapps-team.github.io/photopure/privacy](https://broapps-team.github.io/photopure/privacy)
