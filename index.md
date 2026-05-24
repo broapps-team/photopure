@@ -4,36 +4,45 @@
 
 ## 💡 <span style="color:#1068D1;">Overview</span>
 
-PhotoPure helps you reduce photo library clutter by identifying low-value photos directly on your device.
+PhotoPure helps you reduce photo library clutter by intelligently analyzing photos directly on your device.
 
-Find duplicates, blurry shots, accidental captures, dark photos, bright photos, and closed-eye shots — then safely organize, review, keep, or delete them at your own pace.
+Find duplicates, blurry shots, accidental captures, dark photos, bright photos, screenshots, and closed-eye shots — then safely review and clean up your library without losing important memories.
 
 PhotoPure is designed around:
 - Privacy-first processing  
 - User control  
-- Safe cleanup without losing important memories  
+- Safe cleanup workflows  
+- Fully on-device analysis  
 
 ---
 
 ## 🚀 <span style="color:#0E7C66;">Key Features</span>
 
-### 🧹 <span style="color:#2B2B2B;">Smart Photo Cleanup</span>
+### 🔍 <span style="color:#2B2B2B;">Unlimited Photo Analysis</span>
+
+- Scan your entire photo library for free  
+- Analyze large photo collections safely  
+- View cleanup suggestions instantly  
+- Estimate potential storage savings  
+
+---
+
+### 🧹 <span style="color:#2B2B2B;">Smart Cleanup Tools</span>
 
 - Detect duplicate photos  
 - Find blurry and low-quality shots  
-- Identify accidental captures and clutter  
 - Detect dark, bright, and closed-eye photos  
+- Review cleanup suggestions before deleting  
 
 ---
 
 ### 📂 <span style="color:#2B2B2B;">Smart Cleanup Albums</span>
 
-- Automatically organize photos into albums:
+- Organize cleanup suggestions into albums:
   - Duplicates
   - Blurry
   - Dark
   - Bright
-  - Accidental
   - Closed Eyes
 
 - Review photos album-by-album  
@@ -45,6 +54,7 @@ PhotoPure is designed around:
 
 - All analysis stays on your device  
 - No cloud photo uploads  
+- No external photo processing  
 - Built with privacy-first principles  
 
 ---
@@ -54,6 +64,7 @@ PhotoPure is designed around:
 - Nothing is deleted automatically  
 - Review every suggestion before removal  
 - Keep important memories safe  
+- Full user control at every step  
 
 ---
 
@@ -61,7 +72,8 @@ PhotoPure is designed around:
 
 - Scan only new photos after the first run  
 - Avoid rescanning your full library  
-- Designed for large photo collections  
+- Optimized for large photo collections  
+- Designed for fast on-device performance  
 
 ---
 
@@ -77,6 +89,7 @@ PhotoPure takes a different approach.
 - Fully on-device  
 - Transparent cleanup workflow  
 - User remains in control  
+- No account required  
 
 ---
 
@@ -96,6 +109,7 @@ PhotoPure helps you:
 - Reduce clutter  
 - Organize your photo library  
 - Free up storage  
+- Review low-value photos  
 - Keep what matters most  
 
 Everything stays under your control.
@@ -104,13 +118,13 @@ Everything stays under your control.
 
 ## 🔬 <span style="color:#2B2B2B;">Current MVP Features</span>
 
+- Unlimited photo analysis  
 - Duplicate detection  
 - Blur detection  
 - Dark / bright photo detection  
-- Accidental photo detection  
 - Closed-eye detection  
 - Smart cleanup albums  
-- Incremental scanning  
+- Foreground, Background and Incremental scanning  
 - Manual review and delete workflow  
 
 ---
